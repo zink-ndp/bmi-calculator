@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.B2003768_NguyenDoPhucVinh" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">#9b0493</item>
+    </style>
+
+    <style name="Theme.B2003768_NguyenDoPhucVinh" parent="Base.Theme.B2003768_NguyenDoPhucVinh" />
+</resources>
